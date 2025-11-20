@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
     minHeight: '100%',
   },
   title: {
-    fontSize: 28,
+    fontSize: 28,                  
     fontWeight: 'bold',
     marginBottom: 20,
     color: '#00796B', // dark teal for contrast
